@@ -1,7 +1,7 @@
 /* nav */
 .nav {
   text-align: center;
-  font-size: 14px;
+  font-size: 15px;
   padding-top: 40px;
 }
 
@@ -32,4 +32,17 @@
 
 .nav__link {
   padding: 10px;
+}
+
+/* Container */
+.container {
+  width: 100%;
+  max-width: 880px;
+  margin: 0 auto;
+
+  text-align: center;
+}
+
+.logo {
+  padding: 300px;
 }
